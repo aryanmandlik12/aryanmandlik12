@@ -1,90 +1,47 @@
 ## 👋 Hey there!
 
-I'm **Aryan Mandlik**, an **AI/ML Engineer** passionate about building intelligent systems. Currently preparing for **Master's programs in Germany, UK, and Netherlands**.
-
----
-
-## 🧠 About Me
-
-**3 internships** | **6+ ML projects** | **MLOps specialist**
-
-Focused on end-to-end ML pipelines, model optimization, and production-ready systems. Combining beautiful UIs with robust backend logic.
-
+I'm **Aryan Mandlik**, a 4th-year AI/ML Engineer building production-grade ML systems. Passionate about solving real-world problems with data-driven solutions.
 ---
 
 ## 💻 Tech Stack
 
-**Languages & Frameworks:**
-- **Languages:** Python, SQL
-- **ML/DL:** TensorFlow, Keras, Scikit-learn, PyTorch, XGBoost
-- **Data:** Pandas, NumPy, Matplotlib, Seaborn
-- **Web:** Streamlit, FastAPI
-- **Tools:** Git, GitHub, AWS, OpenCV
+**Languages:** Python, SQL  
+**ML/DL:** TensorFlow, Keras, Scikit-learn, PyTorch, XGBoost  
+**Data:** Pandas, NumPy, Matplotlib, Seaborn  
+**Web:** Streamlit, FastAPI  
+**Tools:** Git, GitHub, AWS, OpenCV
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I Build
 
-1. **Cryptocurrency Price Predictor** – 3 models (LR, SVM, XGBoost), ROC-AUC ~0.70, real-time OHLCV data
-2. **Fertilizer Recommendation** – Auto-training ML pipeline, 92.5% accuracy, smart column mapping
-3. **Urban Flooding Predictor** – Keras NN, 20 inputs, real-time risk scoring, gauge visualization
-4. **Movie Recommendation** – Content-based filtering, cosine similarity, TMDB poster integration
-5. **Resume Matcher** – NLP semantic similarity, fine-tuned on 5000+ pairs, ATS optimization
-6. **Face Detection** – Haar Cascade, 98.5% detection, OpenCV pipeline
-
-[View all projects →](https://github.com/aryanmandlik12?tab=repositories)
+- **📊 ML Classification Systems** – Multi-class & time-series prediction models
+- **🤖 End-to-End ML Pipelines** – From data preprocessing to production deployment
+- **🎯 Recommendation Engines** – Content-based & collaborative filtering systems
+- **📈 Data Analytics Dashboards** – Interactive visualizations with Streamlit
+- **🔧 MLOps Solutions** – Model optimization, evaluation, and versioning
+- **💼 Production ML Applications** – FastAPI backends + Streamlit frontends
 
 ---
 
-## 💼 Experience
+## 📚 Featured Projects
 
-**Bustard Media** — Data Science Intern (Sep–Dec 2025)
-- Automated data collection pipelines (30% time reduction)
-- EDA on 100K+ social media posts
-- Classification models: 84% accuracy
-
-**VIT AI Hub** — Project Contributor (Jul–Sep 2025)
-- Resume-job matching using semantic similarity
-- Fine-tuned on 5,000+ job-resume pairs
-- Full ML pipeline + REST API integration
-
-**Vatshayan Technologies** — ML Intern (Oct 2024–Mar 2025)
-- Implemented 8+ supervised learning models on 50K+ records
-- Feature engineering: 8% AUC improvement
-- A/B testing & performance benchmarking
+Check out my repositories for detailed implementations:
+- **CryptoPrediction** – Time-series classification with ensemble models
+- **Fertilizer Recommendation** – Auto-training ML pipeline for agriculture
+- **Movie Recommendation** – Content-based filtering with cosine similarity
+- **Urban Flooding Predictor** – Neural networks for environmental risk assessment
+- **Resume Matcher** – NLP-based job recommendations
+- **Face Detection** – Computer vision with OpenCV
 
 ---
 
-## 🎯 What I'm Looking For
+## 📧 Let's Connect
 
-✨ **AI/ML Jobs** – Full-time roles with growth opportunity  
-🌐 **Remote Opportunities** – High-impact, collaborative teams  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanmandlik12&theme=dark&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmandlik12&theme=dark&layout=compact)
+**Email:** [aryanmandlik19@gmail.com](mailto:aryanmandlik19@gmail.com)  
+**LinkedIn:** [@aryan-mandlik](https://www.linkedin.com/in/aryan-mandlik/)  
+**Portfolio:** [aryanmandlikk.vercel.app](https://aryanmandlikk.vercel.app/)
 
 ---
 
-## 🤝 Let's Connect
-
-- 📧 **Email:** [aryanmandlik19@gmail.com](mailto:aryanmandlik19@gmail.com)
-- 💼 **LinkedIn:** [@aryan-mandlik](https://www.linkedin.com/in/aryan-mandlik/)
-- 🌐 **Portfolio:** [aryanmandlikk.vercel.app](https://aryanmandlikk.vercel.app/)
-- 📱 **Phone:** +91 7400888060
-
----
-
-<div align="center">
-
-### "Building intelligent systems, one model at a time." 🚀
-
-**⭐ Star my repos if you find them helpful!**
-
-*Last Updated: May 2026*
-
-</div>
+⭐ **Feel free to explore my repos and star if you find them helpful!**
