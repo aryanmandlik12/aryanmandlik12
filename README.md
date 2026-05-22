@@ -1,6 +1,6 @@
 ## 👋 Hey there!
 
-I'm **Aryan Mandlik**, a 4th-year **AI/ML Engineer** passionate about building intelligent systems. Currently preparing for **Master's programs in Germany, UK, and Netherlands**.
+I'm **Aryan Mandlik**, an **AI/ML Engineer** passionate about building intelligent systems. Currently preparing for **Master's programs in Germany, UK, and Netherlands**.
 
 ---
 
@@ -58,27 +58,7 @@ Focused on end-to-end ML pipelines, model optimization, and production-ready sys
 ## 🎯 What I'm Looking For
 
 ✨ **AI/ML Jobs** – Full-time roles with growth opportunity  
-🎓 **Master's Programs** – Germany 🇩🇪 | UK 🇬🇧 | Netherlands 🇳🇱 | Denmark 🇩🇰  
 🌐 **Remote Opportunities** – High-impact, collaborative teams  
-
----
-
-## 🎓 Education & Certifications
-
-**B.Tech in Computer Science (AI & ML Specialization)** — VIT Bhopal University (4th Year)
-
-**Certifications:**
-- Python (HackerRank), Python for Data Science (Udemy), Computer Vision (VITyarthi)
-
----
-
-## 🏆 Leadership
-
-**Metaversity Club** — Operational Manager (Feb–Apr 2025)
-- Led 50+ members, impacted 500+ students, 25% participation increase
-
-**AI Club** — Event Team Lead (Feb–Aug 2024)
-- Organized 8+ ML workshops, 80+ participants per event, 200+ students reached
 
 ---
 
