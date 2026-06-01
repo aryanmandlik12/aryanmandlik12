@@ -29,10 +29,7 @@ I'm **Aryan Mandlik**, a 4th-year AI/ML Engineer building production-grade ML sy
 Check out my repositories for detailed implementations:
 - **CryptoPrediction** – Time-series classification with ensemble models
 - **Fertilizer Recommendation** – Auto-training ML pipeline for agriculture
-- **Movie Recommendation** – Content-based filtering with cosine similarity
 - **Urban Flooding Predictor** – Neural networks for environmental risk assessment
-- **Resume Matcher** – NLP-based job recommendations
-- **Face Detection** – Computer vision with OpenCV
 
 ---
 
