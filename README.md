@@ -1,6 +1,6 @@
 ## 👋 Hey there!
 
-I'm **Aryan Mandlik**, a 4th-year AI/ML Engineer building production-grade ML systems. Passionate about solving real-world problems with data-driven solutions.
+I'm **Aryan Mandlik**, an AI/ML Engineer building production-grade ML systems. Passionate about solving real-world problems with data-driven solutions.
 ---
 
 ## 💻 Tech Stack
